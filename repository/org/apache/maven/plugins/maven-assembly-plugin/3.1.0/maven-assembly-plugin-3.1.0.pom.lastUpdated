@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Oct 06 16:35:24 GMT+09:00 2019
+https\://repo.maven.apache.org/maven2/.lastUpdated=1570347324100
+https\://repository.codehaus.org/.error=Could not transfer artifact org.apache.maven.plugins\:maven-assembly-plugin\:pom\:3.1.0 from/to Codehaus (https\://repository.codehaus.org/)\: repository.codehaus.org
+@default-Codehaus-https\://repository.codehaus.org/.lastUpdated=1570347323347
