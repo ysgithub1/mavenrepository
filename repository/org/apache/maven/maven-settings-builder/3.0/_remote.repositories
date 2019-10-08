@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Apr 07 14:35:17 JST 2018
-maven-settings-builder-3.0.jar>central=
+#Sun Oct 06 16:35:50 GMT+09:00 2019
 maven-settings-builder-3.0.pom>central=
+maven-settings-builder-3.0-sources.jar>central=
+maven-settings-builder-3.0.jar>central=
