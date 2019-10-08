@@ -68,9 +68,23 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 		<!-- jdbc -->
 		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-jdbc</artifactId>
-			<version>${spring-framework.version}</version>
+    		<groupId>org.springframework</groupId>
+    		<artifactId>spring-jdbc</artifactId>
+    		<version>5.0.5.RELEASE</version>
+		</dependency>
+		
+		<!-- JPA -->
+		<dependency>
+    		<groupId>org.springframework.data</groupId>
+    		<artifactId>spring-data-jpa</artifactId>
+    		<version>1.11.6.RELEASE</version>
+		</dependency>
+		
+		<!-- ORM -->
+		<dependency>
+    		<groupId>org.springframework</groupId>
+    		<artifactId>spring-orm</artifactId>
+    		<version>${spring-framework.version}</version>
 		</dependency>
 		
 		<!-- h2 database -->

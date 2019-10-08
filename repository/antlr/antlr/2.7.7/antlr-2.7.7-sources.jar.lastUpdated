@@ -1,10 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Jun 28 21:35:42 GMT+09:00 2018
+#Tue Oct 08 09:48:32 GMT+09:00 2019
 https\://artifacts.alfresco.com/nexus/content/repositories/public/.error=
 https\://repo.spring.io/snapshot/.error=
 https\://repo.spring.io/milestone/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1523079431692
-https\://repo.spring.io/milestone/.lastUpdated=1526115518159
-https\://repo.spring.io/snapshot/.lastUpdated=1526115517972
-https\://artifacts.alfresco.com/nexus/content/repositories/public/.lastUpdated=1530189342107
+https\://repo.maven.apache.org/maven2/.lastUpdated=1570495540191
+https\://repo.spring.io/milestone/.lastUpdated=1570495711981
+https\://repo.spring.io/snapshot/.lastUpdated=1570495712201
+https\://artifacts.alfresco.com/nexus/content/repositories/public/.lastUpdated=1570495691420
 https\://repo.maven.apache.org/maven2/.error=
