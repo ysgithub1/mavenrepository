@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.samples.batch</groupId>
+  <artifactId>spring-batch-simple</artifactId>
+  <versioning>
+    <versions>
+      <version>2.0.0.CI-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20191014042551</lastUpdated>
+  </versioning>
+</metadata>
